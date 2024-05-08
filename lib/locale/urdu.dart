@@ -1,0 +1,56 @@
+Map<String, String> urdu() {
+  return {
+    // Basic Values
+    'noInternet': 'No Internet Available',
+    'serverError': 'Server Error',
+    'unknownErrorOccurred': 'Unknown Error',
+    'methodNotAllowedError': 'Method Not Allowed',
+    'badRequestErrorOccurred': 'Bad Request',
+    'accessDeniedErrorOccurred': 'Access Denied',
+    'unAuthenticatedErrorOccurred': 'Un Authenticated',
+    'timeOutError': 'Connection TimeOut',
+    'checkInternetConnection':
+    'Kindly check your internet connection and try again.',
+    'dataParsingError': 'Data Parsing Error',
+    'dismiss': 'Dismiss',
+    'errorOccurred': 'Error Occurred',
+    'exceptionOccurred': 'Exception Occurred',
+    'tokenNotAvailable': 'Access token is not available',
+    'tokenSavingFailed': 'Failed to save token to database',
+    'tokenExpired': 'Token has been expired. Please login again. Thanks',
+    'unableToConnectToServer': 'Unable to connect to server',
+    'unableToConnectToServerDesc':
+    'Kindly try again if you face this issue again and again. Please inform the support team about this issue at',
+    // Application Specific Values
+    'validPassword': 'درست پاس ورڈ',
+    'validNumber': 'درست فون نمبر',
+    'phone_number': 'فون نمبر',
+    'enterNumber': 'فون نمبر درج کریں',
+    'password': 'پاس ورڈ',
+    'signUp': 'سائن اپ',
+    'logOut': 'لاگ آوٹ',
+    'enterPassword': 'پاس ورڈ درج کریں ',
+    'today_price':'آج کی_قیمت',
+    'gold_rates':'سونے کی قیمتیں',
+    'ary_piece':'اے آر وائی پیسز',
+    'sell':'فروخت',
+    'buy':'خرید',
+    'tezabi':'تیزابی',
+    'admin':'منتظم',
+    'save':'محفوظ کریں',
+    'cancel':'منسوخ',
+    'jewelry':'زیورات',
+    'home':'ہوم پیج ',
+    'weight':'وزن',
+    'edit_jewelry':'زیورات میں ترمیم کریں',
+    'add_image':'تصویر شامل کریں',
+    'product_name':'پروڈکٹ کا نام',
+    'carat_gold':'کیرٹ سونا',
+    'add_jewelry':'زیورات شامل کریں',
+    'verifyOtp':'OTP کی تصدیق کریں۔',
+    'notification':'اطلاع',
+    'update':'اپ ڈیٹ',
+
+
+  };
+}

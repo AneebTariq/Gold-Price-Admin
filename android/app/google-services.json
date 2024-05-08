@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "247263640648",
+    "project_id": "saad-gold-928ee",
+    "storage_bucket": "saad-gold-928ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247263640648:android:e6863b9f48ece533ff2c7d",
+        "android_client_info": {
+          "package_name": "com.digitalcops.saadmakkigold"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegDivu5SzucL5CD1Cq7mzDoYD84oOCMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247263640648:android:4a0f2c9a6189fd16ff2c7d",
+        "android_client_info": {
+          "package_name": "com.digitalcops.saadmakkigoldadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegDivu5SzucL5CD1Cq7mzDoYD84oOCMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
